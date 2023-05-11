@@ -2,10 +2,10 @@
 ## Technologies Used:
 
 ```
-*Html* 
-*Css*
-*Sass(A little Bit)*
-*Javascript.*
+Html 
+Css
+Sass(A little Bit)
+Javascript.
 ```
 ## How to run the file:
     **Note: You must have Nodejs install, you can install that by going to the official documentation of NodeJs "https://nodejs.org"**
